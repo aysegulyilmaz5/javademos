@@ -1,1 +1,1 @@
-# javademos
+# javaprimenumber
